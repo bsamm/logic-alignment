@@ -12,6 +12,6 @@ Standards in group or team output normalize over time. In order for teams to rea
 
 ![graph](https://user-images.githubusercontent.com/4521671/47270520-ba3d0b80-d521-11e8-801e-f95f905a3b96.png)
 
-Efforts start out high and q/q starts out love, but overtime they converge to create a the team standard of work. This applies to teams building product, services, and processes.
+Efforts start out high and q/q starts out low, but overtime they converge to create a the team standard of work. This applies to teams building product, services, and processes.
 
 The different between the Effort Line and the Q/Q Line create the Communication Margin. This indicates that team should focus on communication more in the realy stages of team development.
