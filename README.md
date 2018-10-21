@@ -10,7 +10,7 @@ Standards in group or team output normalize over time. In order for teams to rea
 - Q/Q Line: This trace representest the quality and quantity of the team output.
 - Communication Margin: The different between the Effort Line and the Q/Q Line line gives us a margin that indicates how much communication is need for the team to output to the standard line.
 
-insert graph
+![graph](https://user-images.githubusercontent.com/4521671/47270520-ba3d0b80-d521-11e8-801e-f95f905a3b96.png)
 
 Efforts start out high and q/q starts out love, but overtime they converge to create a the team standard of work. This applies to teams building product, services, and processes.
 
