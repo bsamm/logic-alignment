@@ -1,7 +1,7 @@
 # Logic Alignment in Teams
 *An brief analysis by Brandon C Sammons*
 
-Aligning logic refers to the process by which I complete a task, get feedback from my colleagues or supervisor, then incorporate that feedback into the original task. The time it takes to successfully complete this loop will shrink over time as I learn to anticipate my colleague's feedback.
+Aligning logic refers to the process by which I complete a task, get feedback from my colleagues or supervisor, then incorporate that feedback into the original task. The time it takes to successfully complete this loop will shrink over time as I learn to anticipate my colleague's feedback and generally get better at the process.
 
 Standards in group or team output normalize over time. In order for teams to reach their full potential and output their highest quality and quantity of work faster, teams should focus more of their efforts on communication in the early stages of building the team or group. Each individual should strive to be honest and almost over communicative about how they work, when they work, their goals, their passions, and their quirks.
 
