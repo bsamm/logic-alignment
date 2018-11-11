@@ -7,7 +7,7 @@ Standards in group or team output normalize over time. In order for teams to rea
 
 #### Definitions
 
-- Standards Line: The constant standard our output from the team.
+- Standards Line: The constant standard or output from the team.
 - Effort Line: This trace indicates the amount of effort it takes from the team to reach the standards line.
 - Q/Q Line: This trace represents the quality and quantity of the team output.
 - Communication Margin: The difference between the Effort Line and the Q/Q Line line gives us a margin that indicates how much communication is needed for the team to output to the standard line.
